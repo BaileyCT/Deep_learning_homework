@@ -3,7 +3,15 @@ Utilizing RNN to predict the closing price of BTC using the previous closing pri
 
 
 #Findings 
+
+<br/>
+
 ## BTC FNG prediction 
+
+<br/>
+
 ### After creating an 2 layer ltsm RNN to create a closing price prediction using the FNG index I found that it was terribly inaccurate. the prediction stayed fairly stable while the real price was extremely volitiale 
-</br> 
+
+<br/>
+
 ### comparatively using the closing price to predict the next price was far more closer to the actual price. 
